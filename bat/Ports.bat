@@ -1,0 +1,1 @@
+reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Rpc\Internet /v "Ports"

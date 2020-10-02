@@ -1,0 +1,2 @@
+reg query HKEY_LOCAL_MACHINE\SOFTWARE\XPeStaging\XPeImage 
+reg query HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\XPeStaging\XPeImage

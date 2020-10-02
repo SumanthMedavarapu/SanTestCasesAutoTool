@@ -1,0 +1,2 @@
+Slmgr /dlv 
+pause >nul
